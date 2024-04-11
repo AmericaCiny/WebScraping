@@ -9,3 +9,6 @@ Selenium is a suite of tools designed to automate web browsers, allowing develop
 
 # 4. BeautifulSoup
 a Python library for parsing HTML and XML documents. It creates a parse tree from page source code that can be used to extract data easily and effectively.
+
+# 5. API
+Application Programming Interface, is a set of rules, protocols, and tools for building software and applications. We obtained access to web pages and sent data to websites using API with Python.
